@@ -21,7 +21,6 @@
   "description": "node wrapper for BOM (bereau of meteorology) api",
   "dependencies": {
     "cheerio": "^0.16.0",
-    "express": "^4.2.0",
     "geocoder": "^0.2.0",
     "request": "^2.34.0"
   },
